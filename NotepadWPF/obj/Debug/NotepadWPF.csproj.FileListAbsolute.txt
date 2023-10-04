@@ -1,0 +1,69 @@
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\bin\Debug\NotepadWPF.exe.config
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\bin\Debug\NotepadWPF.exe
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\bin\Debug\NotepadWPF.pdb
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\obj\Debug\MainWindow.g.cs
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\obj\Debug\App.g.cs
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF_MarkupCompile.cache
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF_MarkupCompile.lref
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\obj\Debug\App.baml
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\obj\Debug\MainWindow.baml
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.g.resources
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.Properties.Resources.resources
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.csproj.CopyComplete
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.exe
+C:\Users\stefa\Desktop\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.pdb
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\bin\Debug\NotepadWPF.exe.config
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\bin\Debug\NotepadWPF.exe
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\bin\Debug\NotepadWPF.pdb
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\bin\Debug\MaterialDesignColors.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\bin\Debug\MaterialDesignColors.pdb
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.csproj.AssemblyReference.cache
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.csproj.SuggestedBindingRedirects.cache
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\obj\Debug\MainWindow.baml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\obj\Debug\MainWindow.g.cs
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\obj\Debug\App.g.cs
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF_MarkupCompile.cache
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF_MarkupCompile.lref
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\obj\Debug\App.baml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.g.resources
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.Properties.Resources.resources
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.csproj.GenerateResource.cache
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.csproj.CoreCompileInputs.cache
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.csproj.CopyComplete
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.exe
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.pdb
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\bin\Debug\NotepadWPF.exe.config
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\bin\Debug\NotepadWPF.exe
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\bin\Debug\NotepadWPF.pdb
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\obj\Debug\MainWindow.baml
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\obj\Debug\MainWindow.g.cs
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\obj\Debug\App.g.cs
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF_MarkupCompile.cache
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF_MarkupCompile.lref
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\obj\Debug\App.baml
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.g.resources
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.Properties.Resources.resources
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.csproj.CopyComplete
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.exe
+C:\Users\stefa\Desktop\Projects\NotepadWPF\NotepadWPF\obj\Debug\NotepadWPF.pdb
